@@ -62,4 +62,5 @@ Cancellations & Lost Revenue – Examines cancellation trends and their financia
 ## Technologies Used
 * Power BI for dashboard development
 * DAX Query for data preprocessing and KPI calculations
+  
 Thank you for visiting the repository!
